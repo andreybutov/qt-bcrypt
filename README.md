@@ -19,7 +19,7 @@ QString hashedPassword = QtBCrypt::hashPassword("the-password", salt);
 ```
 
 ## Environment
-This code has been tested on Win32 and Win64 with MinGW32 and MSVC2019. It has also been tested under Clang on Mac and gcc on Linux 32 and Linux 64. 
+This code has been tested on Win32 and Win64 with MinGW and MSVC2019. It has also been tested under Clang on Mac and gcc on Linux 32 and 64. 
 
 
 ## License
